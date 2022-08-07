@@ -65,6 +65,30 @@ public class deretFibonacci{
         }
     }
 }
+
+output:
+Masukkan nilai n : 20 //input nilai
+Nilai ke - 0 Adalah 0
+Nilai ke - 1 Adalah 1
+Nilai ke - 2 Adalah 2
+Nilai ke - 3 Adalah 3
+Nilai ke - 4 Adalah 5
+Nilai ke - 5 Adalah 8
+Nilai ke - 6 Adalah 13
+Nilai ke - 7 Adalah 21
+Nilai ke - 8 Adalah 34
+Nilai ke - 9 Adalah 55
+Nilai ke - 10 Adalah 89
+Nilai ke - 11 Adalah 144
+Nilai ke - 12 Adalah 233
+Nilai ke - 13 Adalah 377
+Nilai ke - 14 Adalah 610
+Nilai ke - 15 Adalah 987
+Nilai ke - 16 Adalah 1597
+Nilai ke - 17 Adalah 2584
+Nilai ke - 18 Adalah 4181
+Nilai ke - 19 Adalah 6765
+Nilai ke - 20 Adalah 10946
 ```
 
 <div align="center">
